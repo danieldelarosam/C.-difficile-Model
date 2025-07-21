@@ -2,7 +2,7 @@
 This repository contains the code supporting the analyses presented in the manuscript:  
 **"Colonization Amplification despite Limited In-Hospital Transmission: Modeling the Epidemiological Paradox of *C. difficile* and the Impact of Control Strategies in Healthcare Settings."**
 
-- **1_Baseline_Model.R**  
+- **1_Model_Optimization_and_MonteCarlo.R**  
 R script to run the baseline compartmental model simulating *C. difficile* transmission and colonization amplification in a healthcare setting. Includes optimization of the transmission rate, Monte Carlo simulations, and estimation of key epidemiological metrics.
 
 - **2_Sensitivity_Analysis_Pi.R**  
